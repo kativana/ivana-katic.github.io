@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+img: circus.png
+alt: image-alt
+project-date: May 2023
+description: |
+    <p><b>FLORA PY</b></p>
+    <p>A GUI application crafted to assist in plant care by simulating sensor technology.  Built with <b>Tkinter</b> (front-end), <b>SQLite</b> (databasis), <b>BeautifulSoup</b> (web scraping), and <b>Matplotlib</b> (visualisation).
+    Visit my <a href="https://github.com/kativana/PyPlant" target="_blank">Github</a> for more details.</p>
+---

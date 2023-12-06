@@ -1,0 +1,21 @@
+---
+layout: default
+modal-id: 2
+img: cake.png
+alt: image-alt
+project-date: July 2023
+description: |
+    <p><b>ANALYSIS OF THE AITA SUBREDDIT</b></p>
+    <p>A Detailed Exploration of Reddit's "Am I The Asshole?".</p> 
+    <p>Dive into a comprehensive study of the moral quandaries presented in <b>July's posts on the AITA subreddit</b>.
+    Explore the <b>frequent topics</b> of contention, the most commonly <b>discussed individuals</b>, and <b>specific names</b> that cropped up.</p>
+
+    <p>With a dataset of over <b>3,000 posts</b>, this research utilizes <b>Beautiful Soup</b> for web scraping, <b>Pandas</b> for data manipulation, and tools like <b>NLTK, spaCy, Gensim, and Matplotlib</b> for natural language processing and data visualization.</p>
+
+    <p>I've shared insights from this research in articles on
+    
+    <a href="https://medium.com/@katic.ivana" target="_blank">Medium</a> and
+    <a href="https://www.linkedin.com/in/ivana-katic/" target="_blank">Linkedin</a>.
+      
+    Stay tuned for a visual presentation coming soon!</p>
+---

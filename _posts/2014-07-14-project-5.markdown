@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 5
+img: submarine.png
+alt: image-alt
+project-date: November 2022
+description: |
+    <p><b>CURIOUS</p></b>
+    <p>This is a social media application built using <b>Django</b> and styled with <b>Bulma</b>. 
+    Users can create their profile, log in, follow other users, and share their latest updates. I made it combining several tutorials and incorporated several personal enhancements. I`ve` deployed it on <b>Heroku</b>.</p>
+
+
+    <a href="https://curious-social-app.herokuapp.com/accounts/login/?next=/" class="btn" target="_blank"><b>CLICK HERE FOR THE APP</b></a>
+---

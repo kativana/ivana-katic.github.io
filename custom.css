@@ -1,0 +1,13 @@
+.btn {
+    background-color: #3a4a6c; /* Button background color */
+    color: #ffffff; /* Text color - using white for contrast */
+    padding: 10px 20px; /* Padding around the text */
+    text-decoration: none; /* Removes underline from the text */
+    border-radius: 5px; /* Optional: Rounded corners */
+    display: inline-block; /* Ensures proper spacing and line height */
+    /* Additional styling as needed (e.g., font-size, border, etc.) */
+}
+
+.btn:hover {
+    background-color: #2b3950; /* Darker shade on hover */
+}
