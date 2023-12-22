@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 1
+img: trump_tweets.png
+alt: image-alt
+project-date: December 2023
+description: |
+  <p><b>ANALYSIS OF TRUMP`S TWEETS 2015-2021</b></p>
+  <p></p>
+  <p>An Examination of Tweet posts of the 45th president of the United States Donald J. Trump from <b>2015 to January 2021</b>.
+  With a corpus size of <b>21 658 posts</b>, this analysis employs tools such as <b>Scrapy</b> for web scraping, <b>Pandas</b> and <b>Numpy</b> for data manipulation, and <b>NLTK, spaCy, and Matplotlib</b> for natural language processing and data visualization.</p>
+  <p>Key findings highlight specifics of Donald J. Trump`s communication style, the main topics, countries and people he discussed in this period. Click the link below to check for more.</p>
+
+    <a href="/downloads/Trump_Tweets_Katic.pdf" class="btn" target="_blank"><b>CLICK HERE FOR THE PDF</b></a>
+    
+---

@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 2
 img: cabin.png
 alt: image-alt
 project-date: August 2023
@@ -11,5 +11,5 @@ description: |
   With a corpus size of over <b>2081 speeches</b>, this analysis employs tools such as <b>Scrapy</b> for web scraping, <b>Pandas</b> and <b>Numpy</b> for data manipulation, and <b>NLTK, spaCy, and Matplotlib</b> for natural language processing and data visualization.</p>
   <p>Key findings highlight notable differences in China-related narratives across three presidential administrations. Detailed insights will be shared in upcoming conferences.</p>
 
-  <a href="/downloads/USA-China_Katic.pdf" class="btn" target="_blank"><b>CLICK HERE TO DOWNLOAD PDF</b></a>
+  <a href="/downloads/USA-China_Katic.pdf" class="btn" target="_blank"><b>CLICK HERE FOR THE PDF</b></a>
 ---

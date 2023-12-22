@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 3
 img: cake.png
 alt: image-alt
 project-date: July 2023
@@ -14,8 +14,8 @@ description: |
 
     <p>I've shared insights from this research in articles on
     
-    <a href="https://medium.com/@katic.ivana" target="_blank">Medium</a> and
-    <a href="https://www.linkedin.com/in/ivana-katic/" target="_blank">Linkedin</a>.
+    <a href="https://medium.com/@katic.ivana" target="_blank"><b>Medium</b></a> and
+    <a href="https://www.linkedin.com/in/ivana-katic/" target="_blank"><b>Linkedin</b></a>.
       
     Stay tuned for a visual presentation coming soon!</p>
 ---
