@@ -11,6 +11,6 @@ description: |
   With a corpus size of <b>21 658 posts</b>, this analysis employs tools such as <b>Scrapy</b> for web scraping, <b>Pandas</b> and <b>Numpy</b> for data manipulation, and <b>NLTK, spaCy, and Matplotlib</b> for natural language processing and data visualization.</p>
   <p>Key findings highlight specifics of Donald J. Trump`s communication style, the main topics, countries and people he discussed in this period. Click the link below to check for more.</p>
 
-    <a href="/downloads/Trump_Tweets_Katic2.pdf" class="btn" target="_blank"><b>CLICK HERE FOR THE PDF</b></a>
+    
     
 ---
