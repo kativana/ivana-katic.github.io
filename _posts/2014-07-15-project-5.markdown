@@ -1,12 +1,13 @@
 ---
 layout: default
 modal-id: 5
-img: game.png
+img: thought.png
 alt: image-alt
-project-date: November 2022
+project-date: February 2024
 description: |
-    <p><b>NINJA</b></p>
-    <p>It is an Angry Bird clone game based on the tutorial with some additional tweaks from my side. I`ve made it using <b>Pygame</b> and deployed it on the Itch platform.</p> 
+    <p><b>ThoughtScriber</b></p>
+    <p>Speech to text web app built with <b>Django</b> (backend),
+    <b>HTML, CSS, and JavaScript</b> (frontend), and Google Cloud's <b>Speech-to-Text</b> API (speech recognition technology). </p> 
 
-    <a href="https://kativana.itch.io/ninja" class="btn" target="_blank"><b>CLICK HERE FOR THE GAME</b></a>
+    <a href="https://thought-scriber-f11a914a11a2.herokuapp.com/" class="btn" target="_blank"><b>CLICK HERE TO CHECK THE APP</b></a>
 ---
